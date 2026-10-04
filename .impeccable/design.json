@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-04T07:43:24.359422+00:00",
+  "title": "Design System: OPC之路 × TONK",
+  "extensions": {
+    "colorMeta": {
+      "black": {
+        "role": "primary",
+        "displayName": "Charcoal",
+        "tonalRamp": [
+          "oklch(15.0% 0.0058 121.9)",
+          "oklch(26.4% 0.0058 121.9)",
+          "oklch(37.9% 0.0058 121.9)",
+          "oklch(49.3% 0.0058 121.9)",
+          "oklch(60.7% 0.0058 121.9)",
+          "oklch(72.1% 0.0058 121.9)",
+          "oklch(83.6% 0.0058 121.9)",
+          "oklch(95.0% 0.0058 121.9)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "cream": {
+        "role": "neutral",
+        "displayName": "Cream",
+        "tonalRamp": [
+          "oklch(15.0% 0.0169 88.0)",
+          "oklch(26.4% 0.0169 88.0)",
+          "oklch(37.9% 0.0169 88.0)",
+          "oklch(49.3% 0.0169 88.0)",
+          "oklch(60.7% 0.0169 88.0)",
+          "oklch(72.1% 0.0169 88.0)",
+          "oklch(83.6% 0.0169 88.0)",
+          "oklch(95.0% 0.0169 88.0)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15.0% 0.0139 88.7)",
+          "oklch(26.4% 0.0139 88.7)",
+          "oklch(37.9% 0.0139 88.7)",
+          "oklch(49.3% 0.0139 88.7)",
+          "oklch(60.7% 0.0139 88.7)",
+          "oklch(72.1% 0.0139 88.7)",
+          "oklch(83.6% 0.0139 88.7)",
+          "oklch(95.0% 0.0139 88.7)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "cork": {
+        "role": "neutral",
+        "displayName": "Cork",
+        "tonalRamp": [
+          "oklch(15.0% 0.0870 58.0)",
+          "oklch(26.4% 0.0870 58.0)",
+          "oklch(37.9% 0.0870 58.0)",
+          "oklch(49.3% 0.0870 58.0)",
+          "oklch(60.7% 0.0870 58.0)",
+          "oklch(72.1% 0.0870 58.0)",
+          "oklch(83.6% 0.0870 58.0)",
+          "oklch(95.0% 0.0870 58.0)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "gray": {
+        "role": "neutral",
+        "displayName": "Warm Gray",
+        "tonalRamp": [
+          "oklch(15.0% 0.0145 91.6)",
+          "oklch(26.4% 0.0145 91.6)",
+          "oklch(37.9% 0.0145 91.6)",
+          "oklch(49.3% 0.0145 91.6)",
+          "oklch(60.7% 0.0145 91.6)",
+          "oklch(72.1% 0.0145 91.6)",
+          "oklch(83.6% 0.0145 91.6)",
+          "oklch(95.0% 0.0145 91.6)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "yellow": {
+        "role": "primary",
+        "displayName": "Dream Yellow",
+        "tonalRamp": [
+          "oklch(15.0% 0.1464 90.0)",
+          "oklch(26.4% 0.1464 90.0)",
+          "oklch(37.9% 0.1464 90.0)",
+          "oklch(49.3% 0.1464 90.0)",
+          "oklch(60.7% 0.1464 90.0)",
+          "oklch(72.1% 0.1464 90.0)",
+          "oklch(83.6% 0.1464 90.0)",
+          "oklch(95.0% 0.1464 90.0)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Pin Red",
+        "tonalRamp": [
+          "oklch(15.0% 0.1622 30.4)",
+          "oklch(26.4% 0.1622 30.4)",
+          "oklch(37.9% 0.1622 30.4)",
+          "oklch(49.3% 0.1622 30.4)",
+          "oklch(60.7% 0.1622 30.4)",
+          "oklch(72.1% 0.1622 30.4)",
+          "oklch(83.6% 0.1622 30.4)",
+          "oklch(95.0% 0.1622 30.4)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      },
+      "teal": {
+        "role": "secondary",
+        "displayName": "Sticker Teal",
+        "tonalRamp": [
+          "oklch(15.0% 0.0523 171.7)",
+          "oklch(26.4% 0.0523 171.7)",
+          "oklch(37.9% 0.0523 171.7)",
+          "oklch(49.3% 0.0523 171.7)",
+          "oklch(60.7% 0.0523 171.7)",
+          "oklch(72.1% 0.0523 171.7)",
+          "oklch(83.6% 0.0523 171.7)",
+          "oklch(95.0% 0.0523 171.7)"
+        ],
+        "tonalRampPurpose": "Synthesized preview ramp; not implemented application tokens."
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Condensed English Display",
+        "purpose": "English review heading, captions, dates and statistics; not the Chinese hero title."
+      }
+    },
+    "shadows": [
+      {
+        "name": "paper",
+        "value": "0 5px 15px #27251c24",
+        "purpose": "Paper surfaces and sticker frames"
+      },
+      {
+        "name": "card",
+        "value": "0 8px 24px #17171335",
+        "purpose": "Toasts and elevated art"
+      },
+      {
+        "name": "cork-polaroid",
+        "value": "0 6px 16px #452a1c55",
+        "purpose": "Dream cards on cork"
+      }
+    ],
+    "motion": [
+      {
+        "name": "note-transform",
+        "value": "transform .18s",
+        "purpose": "Lift entries and straighten notes"
+      },
+      {
+        "name": "progress",
+        "value": "width .25s",
+        "purpose": "Progress fill updates"
+      },
+      {
+        "name": "reduced-motion",
+        "value": "prefers-reduced-motion: reduce",
+        "purpose": "Disable motion and smooth scrolling"
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "phone",
+        "value": "600px"
+      },
+      {
+        "name": "compact-sidebar",
+        "value": "800px"
+      },
+      {
+        "name": "two-column-entries-and-ideas",
+        "value": "900px"
+      },
+      {
+        "name": "four-column-dreams-min",
+        "value": "1000px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "description": "Primary Button extracted from the operative TONK interface.",
+      "html": "<button class=\"ds-primary\">保存梦想</button>",
+      "css": ".ds-primary{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#20211e;color:#faf6ec;border:1px solid #20211e;border-radius:4px;padding:11px 17px;min-height:44px;font-weight:600;cursor:pointer}.ds-primary:hover{filter:brightness(.92)}.ds-primary:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}",
+      "refersTo": "button-primary"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "description": "Secondary Button extracted from the operative TONK interface.",
+      "html": "<button class=\"ds-secondary\">保存梦想</button>",
+      "css": ".ds-secondary{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:transparent;color:#20211e;border:1px solid #222224;border-radius:4px;padding:11px 17px;min-height:44px;font-weight:600;cursor:pointer}.ds-secondary:hover{filter:brightness(.92)}.ds-secondary:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}",
+      "refersTo": "button-secondary"
+    },
+    {
+      "name": "Danger Button",
+      "kind": "button",
+      "description": "Danger Button extracted from the operative TONK interface.",
+      "html": "<button class=\"ds-danger\">保存梦想</button>",
+      "css": ".ds-danger{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:transparent;color:#ad3428;border:1px solid #d9b3a8;border-radius:4px;padding:11px 17px;min-height:44px;font-weight:600;cursor:pointer}.ds-danger:hover{filter:brightness(.92)}.ds-danger:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}"
+    },
+    {
+      "name": "Search Field",
+      "kind": "input",
+      "description": "Search Field extracted from the operative TONK interface.",
+      "html": "<label class=\"ds-search\"><input aria-label=\"搜索灵感\" placeholder=\"搜索想法、内容或标签\"></label>",
+      "css": ".ds-search{display:flex;background:#faf6ec;border:1px solid #bdb7a9;border-radius:4px;padding:9px 12px}.ds-search input{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:0;outline:0;background:transparent;font-size:14px;width:100%}.ds-search:focus-within{outline:2px solid #7eaa9b;outline-offset:3px}@media(max-width:600px){.ds-search input{font-size:16px}}"
+    },
+    {
+      "name": "Category Chip",
+      "kind": "chip",
+      "description": "Category Chip extracted from the operative TONK interface.",
+      "html": "<button class=\"ds-chip\" aria-pressed=\"true\">全部</button>",
+      "css": ".ds-chip{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#20211e;color:#faf6ec;border:0;padding:9px 17px;border-radius:4px;min-height:40px;font-size:12px;cursor:pointer}.ds-chip:hover{filter:brightness(.92)}.ds-chip:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}",
+      "refersTo": "category-selected"
+    },
+    {
+      "name": "Paper Prompt",
+      "kind": "card",
+      "description": "Paper Prompt extracted from the operative TONK interface.",
+      "html": "<label class=\"ds-prompt\"><strong>今天发生了什么？</strong><textarea aria-label=\"今天发生了什么？\" placeholder=\"把今天值得记住的一刻写下来。\"></textarea></label>",
+      "css": ".ds-prompt{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;display:block;background:#faf6ec;color:#20211e;padding:18px 18px 14px;border-radius:8px;box-shadow:0 5px 15px #27251c24}.ds-prompt textarea{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;border:0;background:transparent;width:100%;min-height:58px;line-height:1.8;font-size:14px;margin-top:9px}.ds-prompt textarea::placeholder{color:#716a60}.ds-prompt textarea:focus{outline:2px solid #7eaa9b;outline-offset:1px}",
+      "refersTo": "paper"
+    },
+    {
+      "name": "Bottom Navigation",
+      "kind": "nav",
+      "description": "Bottom Navigation extracted from the operative TONK interface.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#dreams\" aria-current=\"page\">梦想</a><a href=\"#journal\">日记</a><a href=\"#ideas\">灵感</a><a href=\"#review\">复盘</a></nav>",
+      "css": ".ds-nav{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;display:flex;background:#20211e;color:#c4c4b8;border-radius:16px;padding:10px 8px;box-shadow:0 8px 25px #17171340}.ds-nav a{flex:1;text-align:center;font-size:11px;padding:4px;color:inherit;text-decoration:none}.ds-nav a[aria-current]{color:#f2c84b}.ds-nav a:hover{color:#faf6ec}.ds-nav a:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}"
+    },
+    {
+      "name": "Taped Idea Note",
+      "kind": "custom",
+      "description": "Taped Idea Note extracted from the operative TONK interface.",
+      "html": "<button class=\"ds-note\"><span class=\"ds-tape\"></span><small>10/04 · 演示</small><h2>一个新的可能</h2><p>不必完整，先记下来。</p></button>",
+      "css": ".ds-note{font-family:\"PingFang SC\",\"Microsoft YaHei\",sans-serif;position:relative;background:#f4dd89;color:#20211e;padding:23px 22px 30px;border:0;text-align:left;transform:rotate(1deg);transition:transform .18s;box-shadow:0 5px 15px #27251c24;cursor:pointer}.ds-tape{position:absolute;top:-10px;left:32%;width:85px;height:25px;background:#c3b69699;transform:rotate(-5deg);clip-path:polygon(3% 0,98% 3%,95% 100%,0 97%)}.ds-note h2{font-size:21px;line-height:1.5}.ds-note p{font-size:13px;line-height:1.9}.ds-note:hover{transform:rotate(0)}.ds-note:focus-visible{outline:3px solid #7eaa9b;outline-offset:4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The TONK Paper Journal",
+    "overview": "A personal growth journal expressed as the user-pinned TONK paper world: charcoal, cream journal stock, warm cork, polaroids and small character stickers. Personal writing and photos lead; the supplied logo and mascot hold the identity. This is an operative Chinese interface with local records and explicit editing controls.",
+    "keyCharacteristics": [
+      "Charcoal framing with readable cream paper",
+      "Cork, pinned polaroids and taped idea notes",
+      "Condensed English accents and Chinese system text",
+      "Restrained angles on decoration; upright editable controls"
+    ],
+    "rules": [],
+    "dos": [
+      "Do preserve the supplied TONK logo, mascot and reference as visual authority.",
+      "Do keep personal writing and photos central, with demo content visibly labelled.",
+      "Do keep editable controls upright and show teal keyboard focus.",
+      "Do preserve the two-column mobile dream and idea boards while stacking journal and review content."
+    ],
+    "donts": [
+      "Don’t replace the pinned world with a generic dashboard or generated visual comp.",
+      "Don’t remove the original mascot background or imply an AI service exists.",
+      "Don’t rotate form fields, hide edit actions behind decorative gestures, or present future drag metadata as an active interaction."
+    ]
+  }
+}
